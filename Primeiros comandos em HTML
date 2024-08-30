@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha primeira pagina!</title>
+</head>
+<body>
+   <b>Teste! - Negrito</b> <br>
+   <b>Teste! - Negrito</b>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, labore. Ex eaque velit itaque tempore explicabo nesciunt dolorem nostrum rem laboriosam ipsam. Quibusdam, nobis dolores laudantium unde molestias tenetur dolor.
+</p>
+<i>Colocar em italico</i> <br>
+<u>Para Sublinhar</u>
+<!--Fazendo um comentario em html-->
+<h1>Texto Principal</h1>
+<h2>Texto Secundario</h2>
+<h3>Outro Texto</h3>
+<hr> <!-- Fazendo um traço>!-->
+<h4>Mais um Exemplo</h4>
+
+<!--rodapé-->
+<br><br>
+<footer>
+    <adress>
+        <center>Parque guanabara s/n<br>São Cristovão, Mg, 20940</center>
+    </adress>
+        <p><center>Parque - Todos os direitos Reservados - 2024</center></p>
+         </footer>
+         <img src="galo.png">
+         <img src="galo.png" alt="Imagem do topo" width="100" height="250">
+        
+         <p><a href="https://www.lojadogalo.com.br/?gad_source=1&gclid=EAIaIQobChMI-rGe4K6biAMVvh2DAx3vwjKVEAAYASAAEgIWxfD_BwE"> <h3> Loja do galo </h3> </a> </p>
+         
+</body>
+</html>
